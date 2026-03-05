@@ -19,4 +19,5 @@ Technical concept developed :
 Development environment :
   - Python 3.14.2
   - Vs Code
+  - git
   - GitHub
